@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taiuanascimento
-- 👀 I’m interested in Java Application Development
-- 🌱 I’m currently learning Java Development
+- 👀 I’m interested in Java | JavaScript Application Development
+- 🌱 I’m currently learning Java | JavaScript Development
 - 💞️ I’m looking to collaborate on projects that involve my area of study
 - 📫 How to reach me send an email to taiua.nascimento@outlook.com
 
